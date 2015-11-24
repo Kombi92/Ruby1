@@ -20,5 +20,5 @@ Podręczne linki:
   - [x] [Array](ruby.md#tablice)
   - [x] [Hash](ruby.md#hashe)
   - [x] [Enumerable](ruby.md#enumerable)
-2. [x] [Algorytmy oraz testy](zad_2)
+2. [x] [Algorytmy oraz testy](Ruby)
 3. [ ] Program/Biblioteka/Aplikacja WWW
