@@ -21,4 +21,4 @@ Podręczne linki:
   - [x] [Hash](ruby.md#hashe)
   - [x] [Enumerable](ruby.md#enumerable)
 2. [x] [Algorytmy oraz testy](Ruby)
-3. [ ] Program/Biblioteka/Aplikacja WWW(https://github.com/Kombi92/Projekt_ruby)
+3. [x] [Program/Biblioteka/Aplikacja WWW](https://github.com/Kombi92/Projekt_ruby)
